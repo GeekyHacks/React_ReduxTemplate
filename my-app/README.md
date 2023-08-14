@@ -1,3 +1,6 @@
+# React_ReduxTemplate
+This repo is a simple single page application (SPA) using react. It includes JS linter tests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
