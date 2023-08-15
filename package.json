@@ -1,6 +1,6 @@
 {
   "homepage": "https://geekyhacks.github.io/GeekyCalculator/",
-  "name": "geekyCalculator",
+  "name": "react_reduxtemplate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
