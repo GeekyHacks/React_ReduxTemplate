@@ -10,3 +10,7 @@
 - run `npx stylelint "**/*.{css,scss}"` to test stylelint package. 
 - You are all set. Now you can use this Template for any react project.
 - You can edit the `READMETEMPLATE.md` to suit your project
+
+## Important notes about react projects
+- always add directories into src folder
+- Don't mess with the the `index.js` file in the main Directory 
