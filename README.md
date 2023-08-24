@@ -2,7 +2,6 @@
 
 - clone the template to your local machine
 - Make sure you are in the root project directory inside `react_redux_template` folder
-- remove the `package-lock.json` file
 - Change the name in line `"name": "react_reduxtemplate"` in `package.json`
 - run the following command `npm install` to download the node_modules folder, which include all the packages included in the `package.json` file
 - run `npm start` to see if the react app is working or not
