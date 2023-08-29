@@ -1,4 +1,13 @@
-# Module 2 Capstone Pokemon
+## README_TEMPLATE
+
+<div align="center">
+  <img src="./src/assets/welcometomyGIthub.png"  alt="GEEKY HACKS">
+  <br>
+
+</div>
+
+
+# RepoTitle
 
 <a name="readme-top"></a>
 
@@ -6,24 +15,23 @@
 
   <br/>
 
-  <h3><b>Module 2 Capstone Pokemon</b></h3>
-  <p>In this project I will be using webpack to bundle my code, the project is about using multiple APIs to show and manipulate data. Styling is done with sass. Jest testing is used for the project. It will include mainly JS, HTML, Sass, and JSON</p>
+  <h3><b>RepoTitle</b></h3>
+  <p>In this Repo I will create a simplified version of bookstore that allows me to: Display a list of books, Add a book, and Remove a selected book. Its an appilcation of using React and Redux in the context of a real application.</p>
 
 <div align="center">
   <img src="assests/images/Personal-portfolio-with-play.gif"  alt="Personal portfolio video">
   <br>
-   <a href="https://drive.google.com/file/d/1AN1Oph1s-dFzk4pkKvT0cJqSd7RgNPuf/view?usp=sharing">Watch full video </a>
-</div>
 
+</div>
 </div>
 
 # 📗 Table of Contents
 
-- [Module 2 Capstone Pokemon](#Module2Capstone_Pokemon)
+- [RepoTitle](#RepoTitle)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Module 2 Capstone Pokemon< ](#Module2Capstone_Pokemon)
+- [📖 RepoTitle< ](#RepoTitle)
 - [🚀 Live Demo ](#-live-demo-)
-- [📖 Module 2 Capstone Pokemon< ](#Module2Capstone_Pokemon)
+- [📖 RepoTitle< ](#RepoTitle)
   - [🛠 Built With HTML, CSS and JavaScript](#-built-with-html-css-and-javascript)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -39,16 +47,16 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 Module 2 Capstone Pokemon< <a name="about-project"></a>
+# 📖 RepoTitle< <a name="about-project"></a>
 
-**Module 2 Capstone Pokemon<e**
-In this project I will be using webpack to bundle my code, the project is about using multiple APIs to show and manipulate data. Styling is done with sass. Jest testing is used for the project. It will include mainly JS, HTML, Sass, and JSON.
+**RepoTitle<e**
+In this Repo I will create a simplified version of bookstore that allows me to: Display a list of books, Add a book, and Remove a selected book. Its an appilcation of using React and Redux in the context of a real application.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://geekyhacks.github.io/Module2Capstone_Pokemon/dist/.)
+- [Live Demo Link](https://geekyhacks.github.io/RepoTitle/)
 
-# 📖 Module 2 Capstone Pokemon <a name="live-demo"></a>
+# 📖 RepoTitle <a name="live-demo"></a>
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
 
@@ -81,7 +89,7 @@ To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/Module2Capstone_Pokemon.git
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/RepoTitle.git
 
 ### Prerequisites
 
@@ -96,13 +104,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/GeekyHacks/Module2Capstone_Pokemon.git
+- git clone https://github.com/GeekyHacks/RepoTitle.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/Module2Capstone_Pokemon.git
+  git clone https://github.com/GeekyHacks/RepoTitle.git
 
 ```
 
@@ -139,7 +147,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GeekyHacks/Module2Capstone_Pokemon/issues).
+Feel free to check the [issues page](https://github.com/GeekyHacks/RepoTitle/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

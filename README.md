@@ -1,3 +1,11 @@
+## React_Template
+
+<div align="center">
+  <img src="./src/assets/welcometomyGIthub.png"  alt="GEEKY HACKS">
+  <br>
+
+</div>
+
 ## Steps to use this Template effectively
 
 - clone the template to your local machine
@@ -11,10 +19,16 @@
 - You can edit the `READMETEMPLATE.md` to suit your project
 
 ## Important notes about react projects
+
 - always add directories into src folder
-- Don't mess with the the `index.js` file in the main Directory 
+- Don't mess with the the `index.js` file in the main Directory
+- to use Sass for styling:
+  - open new git-bash terminal in VSC terminal window
+  - change your directory to `React_ReduxTemplate/src/styles`
+  - activate sass by `sass --watch Sass:Css`
+  - create any sass file and it will be automatically created on css on the Css folder
+  - you will use the css files in your JS or JSX file
 
 ## Video explaining Steps
 
-- [Geekyhacks](https://youtu.be/7Dpe_IZ06-I)git 
-
+- [Geekyhacks](https://youtu.be/7Dpe_IZ06-I)git
